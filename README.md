@@ -1,2 +1,2 @@
 # wordcount
-wordcount example for public session Hadoop in Practice http://dou.ua/calendar/7433/
+Public repo which contains code for my public session Hadoop in Practice http://dou.ua/calendar/7433/
